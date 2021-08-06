@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5fd7230f.chunk.css",
+    "main.js": "/portfolio/static/js/main.b6599006.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b6599006.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bcab74a6.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcab74a6.js.map",
+    "static/css/2.f18b567d.chunk.css": "/portfolio/static/css/2.f18b567d.chunk.css",
+    "static/js/2.7c0eac35.chunk.js": "/portfolio/static/js/2.7c0eac35.chunk.js",
+    "static/js/2.7c0eac35.chunk.js.map": "/portfolio/static/js/2.7c0eac35.chunk.js.map",
+    "static/js/3.91a7eda3.chunk.js": "/portfolio/static/js/3.91a7eda3.chunk.js",
+    "static/js/3.91a7eda3.chunk.js.map": "/portfolio/static/js/3.91a7eda3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.f18b567d.chunk.css.map": "/portfolio/static/css/2.f18b567d.chunk.css.map",
+    "static/css/main.5fd7230f.chunk.css.map": "/portfolio/static/css/main.5fd7230f.chunk.css.map",
+    "static/js/2.7c0eac35.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7c0eac35.chunk.js.LICENSE.txt",
+    "static/media/aaron.49f765b9.jpg": "/portfolio/static/media/aaron.49f765b9.jpg",
+    "static/media/javaoop.a8ddfc53.jpg": "/portfolio/static/media/javaoop.a8ddfc53.jpg",
+    "static/media/javaprog.ff8d8b3d.jpg": "/portfolio/static/media/javaprog.ff8d8b3d.jpg",
+    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/portfolio/static/media/officedesk.3e713854.jpg",
+    "static/media/portfolioImg.231d036c.png": "/portfolio/static/media/portfolioImg.231d036c.png",
+    "static/media/portfolioImg2.64f42967.png": "/portfolio/static/media/portfolioImg2.64f42967.png",
+    "static/media/portfolioImg3.2bb9454c.png": "/portfolio/static/media/portfolioImg3.2bb9454c.png",
+    "static/media/responsiveWeb.4e0c0599.jpg": "/portfolio/static/media/responsiveWeb.4e0c0599.jpg",
+    "static/media/softwaretesting.3372e8d9.jpg": "/portfolio/static/media/softwaretesting.3372e8d9.jpg",
+    "static/media/sql.9f3cc016.jpg": "/portfolio/static/media/sql.9f3cc016.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcab74a6.js",
+    "static/css/2.f18b567d.chunk.css",
+    "static/js/2.7c0eac35.chunk.js",
+    "static/css/main.5fd7230f.chunk.css",
+    "static/js/main.b6599006.chunk.js"
+  ]
+}
